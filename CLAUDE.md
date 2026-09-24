@@ -121,7 +121,9 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
   Áudio e lip sync ficam com o Gabriel. **V033 carro v1 editado em 24/09** (71,5 s, voz ElevenLabs + lip sync,
   motion "notificação de celular": pedidos chegando, checklist, contador 30→100, chat do WhatsApp, etiqueta R$ 9,90,
   botão "CHAMA NO ZAP"). **v2 com efeitos sonoros sintetizados** (whoosh nas 10 trocas avatar↔b-roll, pop, ding,
-  tick, cha-ching no preço, clique no CTA). Sem música: ele coloca no CapCut.
+  tick, cha-ching no preço, clique no CTA). **v3 com música** (arquivo dele "videoplayback (7).mp3", do YouTube):
+  estouro aos 0s, parte calma na tristeza, 2º estouro exatamente na virada (17,3s); música ~14 dB abaixo da voz.
+- Música já usada na leva 04: "videoplayback (7).mp3" (V033) — não repetir.
 - Pendências: preço do potinho (gancho V027A); narradoras por persona; prêmio do sorteio (microondas vs "super kit com batedeira").
 
 ### Orgânico — avatar de finanças Augusto Montenegro — `projeto-organico-avatar-financas`
