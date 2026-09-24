@@ -118,7 +118,9 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
 - Criativos validados: CVP01 (não gastar gás, 1:30) e CVP02 (70 pudins, 1:17); duração que escala 1:20–1:40.
   Leva 02 = V020–V024. Leva 03 = V025–V030 (personas mãe, aposentada, doceira, casada, CLT; 3 ganchos por corpo; 3 ondas).
   **Leva 04 (23/09) = avatar de IA**: V031 podcast, V032 UGC fone, V033 carro (`levas/LEVA_04_PROMPTS_E_COPY.md`).
-  Áudio e lip sync ficam com o Gabriel.
+  Áudio e lip sync ficam com o Gabriel. **V033 carro v1 editado em 24/09** (71,5 s, voz ElevenLabs + lip sync,
+  motion "notificação de celular": pedidos chegando, checklist, contador 30→100, chat do WhatsApp, etiqueta R$ 9,90,
+  botão "CHAMA NO ZAP"). Sem música: ele coloca no CapCut.
 - Pendências: preço do potinho (gancho V027A); narradoras por persona; prêmio do sorteio (microondas vs "super kit com batedeira").
 
 ### Orgânico — avatar de finanças Augusto Montenegro — `projeto-organico-avatar-financas`
@@ -270,6 +272,17 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
 - **video-use** e **hyperframes** em `C:\Users\gabgb\Developer\` (junção em `~/.claude/skills/`). Render do hyperframes
   **não roda nos 7,5 GB** — usar a máquina de 16 GB. Plugin Remotion instalado (12 skills).
 - Python 3.12 e Node 24.19 instalados. `claude.exe` fica em `AppData\Roaming\Claude\claude-code\<versão>\`.
+
+### Edição na sessão na nuvem (aprendido em 24/09/2026, V033)
+- Aqui não tem ffmpeg nem Whisper instalados: `pip install imageio-ffmpeg pillow` dá o ffmpeg (sem `drawtext`, com `ass`).
+- HuggingFace e os modelos do Whisper são **bloqueados**; só pypi e npm passam. Transcrição que funciona:
+  `npm i --ignore-scripts sts-whisper-tiny @huggingface/transformers wavefile` (whisper-tiny, fraco em pt-BR, mas
+  serve para alinhar a fala com a copy conhecida; transcrever trechos curtos de novo quando alucinar).
+- Fonte Archivo Black: `npm i @fontsource/archivo-black` e converter o .woff para .ttf com fonttools.
+- **Lip sync: o áudio do vídeo vem ~38 ms adiantado em relação ao MP3** → cortar 0,038 s do início do MP3 (`atrim=start=0.038`).
+- **Não usar `-shortest`** ao compor vídeo pesado + áudio (cortou 6 s no fim). Renderizar só o vídeo e juntar o áudio depois.
+- Envio pelo chat tem limite de 30 MB: gerar versão de entrega em 2 passes (~3 Mbps para 70 s).
+- Takes de TikTok têm **inserts de 1 s** (rosto, texto): varrer o b-roll montado a 5 quadros/s antes de entregar.
 
 ### PDF no Windows — `pipeline-pdf-windows`
 - HTML/CSS A4 → **Chrome headless `--print-to-pdf`** → conferir renderizando em PNG (WinRT `Windows.Data.Pdf`).
