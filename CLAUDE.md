@@ -120,7 +120,8 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
   **Leva 04 (23/09) = avatar de IA**: V031 podcast, V032 UGC fone, V033 carro (`levas/LEVA_04_PROMPTS_E_COPY.md`).
   Áudio e lip sync ficam com o Gabriel. **V033 carro v1 editado em 24/09** (71,5 s, voz ElevenLabs + lip sync,
   motion "notificação de celular": pedidos chegando, checklist, contador 30→100, chat do WhatsApp, etiqueta R$ 9,90,
-  botão "CHAMA NO ZAP"). Sem música: ele coloca no CapCut.
+  botão "CHAMA NO ZAP"). **v2 com efeitos sonoros sintetizados** (whoosh nas 10 trocas avatar↔b-roll, pop, ding,
+  tick, cha-ching no preço, clique no CTA). Sem música: ele coloca no CapCut.
 - Pendências: preço do potinho (gancho V027A); narradoras por persona; prêmio do sorteio (microondas vs "super kit com batedeira").
 
 ### Orgânico — avatar de finanças Augusto Montenegro — `projeto-organico-avatar-financas`
@@ -281,6 +282,8 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
 - Fonte Archivo Black: `npm i @fontsource/archivo-black` e converter o .woff para .ttf com fonttools.
 - **Lip sync: o áudio do vídeo vem ~38 ms adiantado em relação ao MP3** → cortar 0,038 s do início do MP3 (`atrim=start=0.038`).
 - **Não usar `-shortest`** ao compor vídeo pesado + áudio (cortou 6 s no fim). Renderizar só o vídeo e juntar o áudio depois.
+- Sem biblioteca de efeitos aqui (sites de áudio bloqueados): efeitos são **sintetizados com numpy/scipy**
+  (`pip install scipy`), 6–10 dB abaixo da voz, e mixados com `amix=normalize=0` + `alimiter`.
 - Envio pelo chat tem limite de 30 MB: gerar versão de entrega em 2 passes (~3 Mbps para 70 s).
 - Takes de TikTok têm **inserts de 1 s** (rosto, texto): varrer o b-roll montado a 5 quadros/s antes de entregar.
 
