@@ -236,6 +236,11 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
 - **Sons ancorados no sentido da fala, não nos cortes.** Riser antes de revelação, impacto na palavra de peso,
   chime no preço, buildup antes do CTA. Banco CC0: `C:\Users\gabgb\sfx-banco`.
 
+### Referência que escalou: podcast com avatar (diabetes) — `referencia-criativo-podcast-diabetes`
+- Entrevista à mesa com a "comida proibida", gancho de inversão ("pode? pode."), mecanismo com nome, prova, objeção de preço,
+  CTA indireto ("a produção deixa abaixo do vídeo") + botão animado + 3 setas + 9 min de relógio mudo no fim (hipótese: evitar loop).
+- Copiar só a forma; as alegações de saúde dele são inventadas. Aplicar no V031 (podcast) do Pudim.
+
 ### Triagem de b-roll — `triagem-broll-anuncio`
 - Reprova: marca d'água de perfil, legenda queimada, rosto de terceiro (principalmente com credencial), corpo em foco,
   produto de marca, comida que contradiz a copy. Buscar "fígado" no TikTok traz fígado bovino.
