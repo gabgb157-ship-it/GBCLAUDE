@@ -123,6 +123,9 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
   botão "CHAMA NO ZAP"). **v2 com efeitos sonoros sintetizados** (whoosh nas 10 trocas avatar↔b-roll, pop, ding,
   tick, cha-ching no preço, clique no CTA). **v3 com música** (arquivo dele "videoplayback (7).mp3", do YouTube):
   estouro aos 0s, parte calma na tristeza, 2º estouro exatamente na virada (17,3s); música ~14 dB abaixo da voz.
+- **V032 UGC fone v1 editado em 25/09** (77,5 s = 71,5 s de fala + 6 s de cartela com 3 setas): mesmo MP3 do V033,
+  na pegada da referência que escalou (legenda curta itálica, prova em janela no topo, carimbo ESGOTADO,
+  "vai ter de novo?" chegando, botão laranja com cursor clicando, cartela final "CLIQUE NO BOTÃO ABAIXO"). Sem música ainda.
 - Música já usada na leva 04: "videoplayback (7).mp3" (V033) — não repetir.
 - Pendências: preço do potinho (gancho V027A); narradoras por persona; prêmio do sorteio (microondas vs "super kit com batedeira").
 
