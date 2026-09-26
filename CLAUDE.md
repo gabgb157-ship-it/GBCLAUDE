@@ -148,6 +148,10 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
 - Próximo passo pedido: replicar o sistema de agentes para o orgânico (tendências, algoritmo, copy, edição,
   **postagem automática 3–4/dia**, métricas). **Propor e confirmar com ele antes de construir.**
 
+### Referência: orgânico com avatar de IA para a gringa — `referencia-avatar-ia-organico-gringa`
+- Viral >100k views → transcreve → ChatGPT reescreve (inglês) + prompt de personagem parecida → Google Flow cenas de 10 s
+  → Instagram → produto de US$ 9 na bio (Stripe). Ganhos dele são dado de terceiro. Mesmo modelo do Augusto; candidatos: Gabi orgânica, México, gringa.
+
 ### Criativo de salgados v6 — `criativo-salgados-v6`
 - Reels para a apostila de salgados (R$10,90, bônus congelamento, CTA WhatsApp). Base boa: `Downloads\CRIATIVO_NOVO_v4.mp4`.
 - Pendente: som ancorado na transcrição (~14 pontos); trocar planos com `@ArmandoFelipeReceitas`; cena caseira em
