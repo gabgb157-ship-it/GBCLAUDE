@@ -126,6 +126,10 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
 - **V032 UGC fone v1 editado em 25/09** (77,5 s = 71,5 s de fala + 6 s de cartela com 3 setas): mesmo MP3 do V033,
   na pegada da referência que escalou (legenda curta itálica, prova em janela no topo, carimbo ESGOTADO,
   "vai ter de novo?" chegando, botão laranja com cursor clicando, cartela final "CLIQUE NO BOTÃO ABAIXO"). Sem música ainda.
+- **V034 cozinha v1 editado em 26/09** (87,6 s em 1.1x): gancho do Caseirinho escalado ("4 mil de lucro… custo R$ 2,50,
+  venda R$ 10 — ESTIMATIVA, confirmar no PDF de Precificação") + corpo validado do V033 (lip sync com o gancho antigo, cortado na edição).
+  Motion novo: catálogo de sabores com nome no topo (0–4,4 s), card "a conta do potinho", nota de R$ 10, X em batedeira/fogão,
+  pedidos em notinha, checklist em etiqueta kraft, preço em etiqueta pendurada + botão/setas do V032. Sem música ainda.
 - Música já usada na leva 04: "videoplayback (7).mp3" (V033) — não repetir.
 - Pendências: preço do potinho (gancho V027A); narradoras por persona; prêmio do sorteio (microondas vs "super kit com batedeira").
 
