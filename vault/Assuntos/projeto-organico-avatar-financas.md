@@ -124,3 +124,10 @@ meta og:description (curtidas, comentários, data, legenda) funciona mesmo com a
 `/api/v1/users/web_profile_info` deu 429: não insistir. Antes disso: o app Instagram do PC dele é um PWA do Edge (computer-use só dá leitura); o Claude in
 Chrome estava desconectado. Caminho que funcionou: ele faz login no navegador interno do app e eu
 navego lá. Só leitura — nada de curtir, seguir, comentar ou postar sem ele pedir.
+
+**Post 01 modelado (26/09/2026):** viral do Emilio "Quando você for ao HOSPITAL, coloque sua melhor roupa" (36,8k curtidas,
+2:21, plano único parado, legenda em caixinha branca com palavra-chave em MAIÚSCULA). Modelado para o Augusto como
+"Quando você for ao BANCO" (comenta BANCO), cenário escritório com estante e terno cinza-chumbo, 14 takes de 10 s.
+Estrutura do viral: conselho contraintuitivo → cena concreta → "não digo que é certo, é assim que o mundo funciona" →
+faça o contrário → analogia de autoridade → "já vivi isso" → ressalva responsável → detalhe que ninguém percebe →
+deixa discordar → repete o gancho → "regras da vida que ninguém ensina" → livro no perfil.
