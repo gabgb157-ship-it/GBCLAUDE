@@ -244,6 +244,13 @@ abrir a nota original: `vault/Assuntos/<nome>.md` (o nome aparece entre crases e
   CTA indireto ("a produção deixa abaixo do vídeo") + botão animado + 3 setas + 9 min de relógio mudo no fim (hipótese: evitar loop).
 - Copiar só a forma; as alegações de saúde dele são inventadas. Aplicar no V031 (podcast) do Pudim.
 
+### Referência escalada: "Caseirinho Gourmet" (catálogo sem rosto) — `referencia-criativo-caseirinho-catalogo`
+- Oferta gêmea da nossa (recebe primeiro, R$ 10,90, "Recheio Sem Fogo"). Sem avatar: voz em off + comida.
+- 0–26 s: ~32 cortes de 0,8 s, um sabor por corte com **nome do sabor no topo**; depois planos longos de processo sensorial.
+- Copy: renda com número → inimigo → **matemática na tela (custo R$ 1,80 x venda ~R$ 20)** → "não é um bolinho, é uma nota de 20"
+  → sem batedeira/sem fogão → meta diária → oferta empilhada → recebe primeiro + garantia 7 dias → CTA "liberdade".
+- Aplicar no Pudim como V034 "catálogo" (precisa dos números reais do potinho).
+
 ### Triagem de b-roll — `triagem-broll-anuncio`
 - Reprova: marca d'água de perfil, legenda queimada, rosto de terceiro (principalmente com credencial), corpo em foco,
   produto de marca, comida que contradiz a copy. Buscar "fígado" no TikTok traz fígado bovino.
